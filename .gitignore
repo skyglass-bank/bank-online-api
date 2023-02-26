@@ -43,6 +43,9 @@ out/
 node_modules/
 dist/
 .DS_Store
+**/.DS_Store
+**/**/.DS_Store
+src/main/resources/uploads/
 
 bin/
 target/
